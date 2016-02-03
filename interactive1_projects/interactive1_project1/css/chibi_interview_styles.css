@@ -1,0 +1,84 @@
+/*body { 
+	background-position: top, center;
+	background: #000000;
+	background: linear-gradient(#000000, #800080);
+	background: -webkid-linear-gradient(#000000, #800080);
+	background: -moz-linear-gradient(#000000, #800080);
+}
+*/
+
+body {
+	background-image: url(../images/birthday_massacre_cover.jpg); 
+	background-position: top, center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
+#header{
+	width: 1000px;
+	height: 100px;
+	background-color: black;
+	float: top;
+}
+
+#container{
+	width: 650px;
+	height: 2550px;
+	background-color: black;
+	color: black;
+	margin: auto;
+
+}
+
+#text{
+	width: 600px;
+	height: 2500px;
+	color: black;
+	margin: auto;
+	padding: 2px;
+
+}
+
+	h1{ 
+		font-family: 'Lekton', sans-serif;
+		font-size: 36px;
+		color: #BA55D3;
+		
+		}
+
+	h3{
+		font-family: 'Lekton', sans-serif;
+		color: white;
+		font-size: 13px;
+		font-weight: 400;
+		font-style: italic;
+
+	}	
+	
+	h5{
+		font-family: 'Lekton', sans-serif;
+		color: white;
+		font-size: 12px;
+		font-weight: 400;
+	}
+
+	h6{
+		font-family: 'Lekton', sans-serif;
+		color: lavender;
+		font-size: 12px;
+		font-weight: 400;
+	}
+	p{
+		font-family: 'Lekton', sans-serif;
+		color: white;
+		font-size: 12px;
+		font-weight: 700;
+		text-align: left;
+
+	}
+	p{
+		font-family: 'Lekton', sans-serif;
+		font-weight: 400;
+		font-style: italic;
+	}
