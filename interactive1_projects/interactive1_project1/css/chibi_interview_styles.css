@@ -62,11 +62,10 @@ body {
 
 #link{
 	font-family: 'Lekton', sans-serif;
-		lin: white;
-		font-size: 14px;
-		font-weight: 700;
+	color: white;
+	font-size: 14px;
+	font-weight: 700;
 	}
-}
 
 
 	h1{ 
@@ -74,7 +73,6 @@ body {
 		font-size: 36px;
 		color: #9932CC;
 		line-height: 42px;
-		
 		}
 
 	h3{
