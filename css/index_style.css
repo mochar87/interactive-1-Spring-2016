@@ -2,6 +2,7 @@ body{
 	background-image: url(../images/cute_potato_notype.jpg);
 	background-size: 400px, 200px;
 	background-repeat: no-repeat;
+	background-color: #fceee5;
 }
 
 h1{
@@ -17,19 +18,21 @@ h2{
 	color: orange;
 	font-size: 18px;
 	padding-left: 60px;
+	margin: auto;
 }
 
 #project1{
 	font-family: 'Patrick Hand SC', cursive;
 	color: orange;
-	padding-left: 50px;
+	padding-left: 115px;
 	padding-top: 100px;
+	margin: auto;
 }
 
 #project2{
 	font-family: 'Patrick Hand SC', cursive;
 	color: orange;
-	padding-left: 50px;
+	padding-left: 125px;
 	padding-top: 25px;
 }
 
@@ -38,5 +41,6 @@ h3{
 	font-width: bold;
 	color: purple;
 	font-size: 15px;
-	padding-left: 50px;
+	padding-left: 95px;
+	padding-top: 10px;
 }
